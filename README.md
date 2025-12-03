@@ -10,5 +10,25 @@ Program ini adalah aplikasi kalkulator sederhana berbasis Python yang dapat mela
 - Perkalian dua angka
 - Pembagian dua angka
 - Input yang mudah dan interaktif di terminal
+- Lanjut ke Cara Instalasi:
+
+## Panduan Instalasi
+1. Clone repository:
+   git clone <https://github.com/reynamanansal026-create/kalkulator_kolaborasiJ2R-.git>
+
+2. Masuk ke folder project:
+cd kalkulator_kolaborasiJ2R
+
+4. Pastikan Python sudah terinstal:
+python --version
+
+# Panduan Menjalankan
+Untuk menjalankan program, buka folder project di VSCode lalu buka terminal (Ctrl + \``) dan pastikan berada pada direktori file program. Jalankan perintah python kalkulator_kolaborasiJ2R.py, maka tampilan menu seperti berikut akan muncul:
+===KALKULATOR SEDERHANA===
+1. Tambah
+2. Kurang
+3. Bagi
+4. Keluar
+Pilih operasi yang diinginkan, masukkan dua angka, dan hasil perhitungan akan ditampilkan di terminal
 
   
