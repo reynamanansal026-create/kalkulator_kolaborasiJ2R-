@@ -31,4 +31,4 @@ Untuk menjalankan program, buka folder project di VSCode lalu buka terminal (Ctr
 4. Keluar
 Pilih operasi yang diinginkan, masukkan dua angka, dan hasil perhitungan akan ditampilkan di terminal
 
-![gambar flowchart](<flowchart_kalkulator.png>)
+![gambar flowchart](<flowchart_kalkulator.draw.png>)
