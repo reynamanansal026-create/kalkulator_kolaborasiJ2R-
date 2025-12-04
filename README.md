@@ -44,3 +44,11 @@ Jika pilihan operasi yang dimasukkan benar, program akan meminta pengguna untuk 
 Pada operasi pembagian, terdapat proses tambahan yaitu pengecekan validitas nilai pembagi. Program akan memastikan bahwa angka kedua tidak bernilai nol, karena pembagian dengan nol tidak dapat dilakukan dan dapat menyebabkan kesalahan perhitungan. Jika angka pembagi bernilai nol, program memberikan peringatan bahwa pembagian tidak dapat dilakukan, lalu pengguna diarahkan kembali ke menu utama. Sebaliknya, jika angka pembagi valid, program akan melanjutkan perhitungan pembagian dan menampilkan hasilnya sebelum kembali lagi ke menu.
 
 Program juga menyediakan pilihan untuk keluar dari aplikasi. Jika pengguna memilih angka 0 pada menu, maka program langsung menghentikan seluruh alur dan menuju simbol “Selesai”, yang menandakan bahwa program telah berakhir sesuai dengan keinginan pengguna. Keseluruhan alur dalam flowchart ini menunjukkan bahwa kalkulator bekerja dengan sistem perulangan, di mana setelah setiap operasi selesai dilakukan, pengguna selalu dikembalikan ke menu utama tanpa memulai ulang program. Selain itu, adanya pengecekan khusus pada operasi pembagian menunjukkan bahwa program telah dilengkapi dengan penanganan kesalahan, sehingga lebih aman dan mencegah terjadinya error logika dalam proses perhitungan.
+
+
+# Daftar Kontributor
+NO|NAMA|NIM|LINK AKUN GITHUB
+:---|:---|:---|:---
+1|Jesril Graciella Angela Mende|250211060017|https://github.com/jesrilmende10
+2|jessica Marsha Sangki|250211060061|https://github.com/jessicamarsha
+3|Reyna Marselina Manansal|250211060092|https://github.com/reynamanansal026-create
